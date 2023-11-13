@@ -38,4 +38,3 @@ A CSV file named customer_activity.csv containing data from the customer_activit
 
 
 
-
